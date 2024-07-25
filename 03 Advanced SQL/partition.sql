@@ -15,4 +15,4 @@ SELECT
       OVER(PARTITION BY m.season, c.name) AS season_ctry_avg
 FROM country AS c
 LEFT JOIN match AS m
-ON c.id=m.country_id
+ON c.id = m.country_id
