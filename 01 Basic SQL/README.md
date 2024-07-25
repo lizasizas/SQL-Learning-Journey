@@ -19,4 +19,18 @@ This project includes several SQL queries that demonstrate basic SQL concepts. E
 - Write a query to return the names of all male athletes who are taller than 180 cm.
 - Order the results by height in descending order.
 
-**Sample results:**
+**Results:**
+![Results1](01 Basic SQL/img/Screenshot 2024-07-24 155603.png)
+
+
+#### Question 2
+**Instructions:**
+- Write a query to return the names and teams of athletes who participated in the 1992 Summer Games.
+- Order the results by name in ascending order.
+**Results:**
+
+#### Question 3
+**Instructions:**
+- Write a query to return the names and sports of female athletes who participated in any Winter Games.
+- Order the results by year in ascending order.
+**Results:**
