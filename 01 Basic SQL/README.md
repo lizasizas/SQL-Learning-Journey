@@ -19,18 +19,36 @@ This project includes several SQL queries that demonstrate basic SQL concepts. E
 - Write a query to return the names of all male athletes who are taller than 180 cm.
 - Order the results by height in descending order.
 
-**Results:**
-![Results1](01 Basic SQL/img/Screenshot 2024-07-24 155603.png)
+**Code:**
 
+![Code1](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/01%20Basic%20SQL/img/Screenshot%202024-07-24%20155102.png)
+
+**Results:**
+
+![Results1](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/01%20Basic%20SQL/img/Screenshot%202024-07-24%20155603.png)
 
 #### Question 2
 **Instructions:**
 - Write a query to return the names and teams of athletes who participated in the 1992 Summer Games.
 - Order the results by name in ascending order.
+
+**Code:**
+
+![Code2](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/01%20Basic%20SQL/img/Screenshot%202024-07-24%201534231.png)
+
 **Results:**
+
+![Results2](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/01%20Basic%20SQL/img/Screenshot%202024-07-24%201534232.png)
 
 #### Question 3
 **Instructions:**
 - Write a query to return the names and sports of female athletes who participated in any Winter Games.
 - Order the results by year in ascending order.
+
+**Code:**
+
+![Code3](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/01%20Basic%20SQL/img/Screenshot%202024-07-24%201539421.png)
+
 **Results:**
+
+![Results3](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/01%20Basic%20SQL/img/Screenshot%202024-07-24%201540122.png)
