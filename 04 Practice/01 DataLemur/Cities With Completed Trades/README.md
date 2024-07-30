@@ -74,3 +74,5 @@ GROUP BY city
 ORDER BY total_orders DESC
 LIMIT 3;
 ```
+### **Output**
+![Result](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/04%20Practice/01%20DataLemur/Cities%20With%20Completed%20Trades/Screenshot%202024-07-30%20175523.png)
