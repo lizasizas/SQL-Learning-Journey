@@ -57,30 +57,4 @@ GROUP BY app_id;
 
 ### **Output:**
 
-![Screenshot 2024-08-01 114951.png](App%20Click-through%20Rate%20(CTR)%20%5BFacebook%20SQL%20Intervi%20be490bb415e54ab09c3e007b4da8e9e5/Screenshot_2024-08-01_114951.png)
-
-### **Another Solution:**
-
-```sql
--- Using SUM() FILTER ()
-SELECT
-  app_id,
-  ROUND(100.0 *
-    SUM(1) FILTER (WHERE event_type = 'click') /
-    SUM(1) FILTER (WHERE event_type = 'impression'), 2) AS ctr_app
-FROM events
-WHERE timestamp >= '2022-01-01' 
-  AND timestamp < '2023-01-01'
-GROUP BY app_id;
-
--- Using SUM(CASE ...)
-SELECT
-  app_id,
-  ROUND(100.0 *
-    SUM(CASE WHEN event_type = 'click' THEN 1 ELSE 0 END) /
-    SUM(CASE WHEN event_type = 'impression' THEN 1 ELSE 0 END), 2)  AS ctr_rate
-FROM events
-WHERE timestamp >= '2022-01-01' 
-  AND timestamp < '2023-01-01'
-GROUP BY app_id;
-```
+![Result](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/04%20Practice/01%20DataLemur/App%20Click-through%20Rate%20(CTR)/Screenshot%202024-08-01%20114951.png)
