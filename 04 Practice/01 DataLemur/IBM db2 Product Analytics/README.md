@@ -78,4 +78,4 @@ ORDER BY unique_queries;
 
 ### **Output:**
 
-![Screenshot 2024-08-01 134509.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b8ee693a-b5fc-4cb4-a406-031b756245ce/c1dfbe15-6ce8-49fb-81e1-6bdb9f8d4b57/Screenshot_2024-08-01_134509.png)
+![Screenshot 2024-08-01 134509.png](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/04%20Practice/01%20DataLemur/IBM%20db2%20Product%20Analytics/Screenshot%202024-08-01%20134509.png)
