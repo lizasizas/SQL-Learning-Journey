@@ -73,6 +73,7 @@ WHERE email_nc = 1 AND email_c = 1;
 ```
 
 ### **Output:**
+![Result](https://github.com/lizasizas/SQL-Learning-Journey/blob/main/04%20Practice/01%20DataLemur/Second%20Day%20Confirmation/Screenshot%202024-08-01%20122528.png)
 
 ### **Another Solution:**
 
