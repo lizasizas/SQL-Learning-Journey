@@ -50,7 +50,7 @@ Assumptions:
 | prime_eligible | 9285 |
 | not_prime | 6 |
 
-### **Submissions:**
+### **Submission:**
 
 ```sql
 WITH CTE AS (
