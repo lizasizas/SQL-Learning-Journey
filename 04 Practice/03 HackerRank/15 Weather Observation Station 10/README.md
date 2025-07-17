@@ -1,6 +1,6 @@
 # Weather Observation Station 10
 
-Query the list of **CITY** names from **`STATION`** that either do not start with vowels or do not end with vowels. Your result cannot contain duplicates.
+Query the list of **CITY** names from **`STATION`** that do not end with vowels. Your result cannot contain duplicates.
 
 ### The **`STATION` Table is described as follows:**
 
