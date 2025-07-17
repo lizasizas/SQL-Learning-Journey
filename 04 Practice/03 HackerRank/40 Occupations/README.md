@@ -30,7 +30,7 @@ The first column is an alphabetically ordered list of Doctor names.
 
 The second column is an alphabetically ordered list of Professor names.
 
-### **Submissions:**
+### **Submission:**
 
 ```sql
 WITH CTE AS (
