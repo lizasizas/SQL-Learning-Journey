@@ -8,7 +8,7 @@ The **STATION** table is described as follows:
 
 where **LAT_N** is the northern latitude and **LONG_W** is the western longitude.
 
-### **Submissions:**
+### **Submission:**
 
 ```sql
 SELECT CITY, STATE
