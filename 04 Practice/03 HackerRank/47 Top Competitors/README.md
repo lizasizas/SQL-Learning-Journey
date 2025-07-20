@@ -27,7 +27,6 @@ The following tables contain contest data:
     
     ![](https://s3.amazonaws.com/hr-challenge-images/19504/1458527077-298f8e922a-ScreenShot2016-03-21at7.46.29AM.png)
     
-
 ---
 
 **Sample Input**
