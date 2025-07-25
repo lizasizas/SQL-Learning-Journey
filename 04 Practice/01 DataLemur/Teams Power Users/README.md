@@ -36,7 +36,7 @@ Assumption:
 | 3601 | 2 |
 | 4500 | 1 |
 
-### **Submissions:**
+### **Submission:**
 
 ```sql
 SELECT
