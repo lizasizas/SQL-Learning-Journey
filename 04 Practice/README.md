@@ -12,5 +12,5 @@ The practice files and solutions are structured and categorized logically by pra
 04 Practice/
 │
 ├── DataLemur/       # Solutions for DataLemur challenges
-├── HackerRank/      # Solutions for HackerRank challenges
-└── LeetCode/        # Solutions for LeetCode challenges
+├── LeetCode/        # Solutions for LeetCode challenges
+└── HackerRank/      # Solutions for HackerRank challenges
